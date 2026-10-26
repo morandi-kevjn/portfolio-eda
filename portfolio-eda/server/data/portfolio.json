@@ -1,0 +1,16 @@
+{
+  "published": {
+    "name": "Test",
+    "title": "Test",
+    "bio": "Test",
+    "projects": [
+      {
+        "id": "dYt6LqIYhRlMP5pzGbUAo",
+        "title": "Oreo",
+        "description": "Test"
+      }
+    ],
+    "slug": "test",
+    "builtAt": "2026-10-26T08:12:32.296Z"
+  }
+}
